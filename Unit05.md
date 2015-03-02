@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME205: Numerical Methods for Engineers"
+course_description: "A review of the numeric methods most useful for engineers, with particular emphasis on numbers and binary systems, numerical differentiation, linear algebra, solving non-linear systems, regression and optimization, ordinary differential equations, and fourier and finite element methods."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Interpolation** <span id="5"></span> 
 **Interpolation is the process of inferring the value of a discretely
 sampled function at a value(s) of the independent variable(s) that is

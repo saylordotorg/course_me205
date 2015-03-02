@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME205: Numerical Methods for Engineers"
+course_description: "A review of the numeric methods most useful for engineers, with particular emphasis on numbers and binary systems, numerical differentiation, linear algebra, solving non-linear systems, regression and optimization, ordinary differential equations, and fourier and finite element methods."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Regression and Optimization** <span id="6"></span> 
 **Regression and optimization are related ideas. Both have to do with
 finding the best solution to a quantifiable problem subject to certain

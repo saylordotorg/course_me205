@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME205: Numerical Methods for Engineers"
+course_description: "A review of the numeric methods most useful for engineers, with particular emphasis on numbers and binary systems, numerical differentiation, linear algebra, solving non-linear systems, regression and optimization, ordinary differential equations, and fourier and finite element methods."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Numerical Differentiation** <span id="2"></span> 
 **If you have experience with the definition of a derivative, then this
 unit may seem rather trivial. There are, however, several ways with
