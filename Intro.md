@@ -251,3 +251,4 @@ Exam. 
 - [Unit 8](https://legacy.saylor.org/me205/Unit08/)
 - [Unit 9](https://legacy.saylor.org/me205/Unit09/)
 - [Unit 10](https://legacy.saylor.org/me205/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME205/ME205-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME205/ME205-FinalExam-Answers.html)
