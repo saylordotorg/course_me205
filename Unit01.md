@@ -68,7 +68,7 @@ Upon successful completion of this unit, the student will be able to:
     Methods”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Introduction to Numerical
-    Methods](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.1-TEXT.pdf)”
+    Methods](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (8 pages).  
@@ -102,7 +102,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Measuring
-    Errors](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.2.1-TEXT.pdf)”
+    Errors](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.2.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (10 pages).   
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Sources of Error”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Sources of
-    Error”](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.2.2-TEXT.pdf)(PDF)  
+    Error”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.2.2-TEXT.pdf)(PDF)  
         
      Instructions: Please read the entire chapter (8 pages).  
         
@@ -171,12 +171,12 @@ Upon successful completion of this unit, the student will be able to:
     of Error”**
     Link: University of South Florida:  Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Introduction of Sources of
-    Error](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.2.2-ASSESSMENT.pdf)”
+    Error](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.2.2-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please attempt all the questions on this multiple
     choice quiz.  You can find the
-    answers [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.2.2-ASSESSMENTANSWERS.pdf)
+    answers [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.2.2-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -191,7 +191,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Binary Representation of Numbers”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Binary Representation of
-    Numbers](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.3-TEXT.pdf)”
+    Numbers](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.3-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (12 pages).  
@@ -225,12 +225,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Introduction of Binary
     Representation of
-    Numbers](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.3-ASSESSMENT.pdf)”
+    Numbers](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.3-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please attempt all of the questions on this multiple
     choice quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.3-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.3-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -246,7 +246,7 @@ Upon successful completion of this unit, the student will be able to:
     Numbers”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Floating Point Representation of
-    Numbers](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.4-TEXT.pdf)”
+    Numbers](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.4-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (12 pages).  
@@ -278,12 +278,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Introduction of Floating Point
     Representation of
-    Numbers](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.4-ASSESSMENT.pdf)”
+    Numbers](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.4-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please attempt all of the questions on this multiple
     choice quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.4-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.4-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -298,7 +298,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Propagation of Errors”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Propagation of
-    Errors](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-1.5-TEXT.pdf)”
+    Errors](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-1.5-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (4 pages).  

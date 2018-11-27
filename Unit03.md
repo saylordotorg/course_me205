@@ -98,7 +98,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Bisection Method”**
     Links:University of South Florida:Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Bisection
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.1-TEXT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the text with particular attention to the
@@ -117,13 +117,13 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Bisection Method”**
     Links: University of South Florida:Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Bisection
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.1-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.1-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Complete the entire multiple choice quiz.  Refer to
     “Textbook Chapter of Bisection Method” for any troublesome
     questions.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Mechanical Engineering Example of Bisection Method”**
     Links: University of South Florida:Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example of Bisection
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.1-TEXT2.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.1-TEXT2.pdf)”
     (PDF)  
         
      Instructions: Follow the example carefully.  Try to reproduce the
@@ -172,7 +172,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Newton-Raphson Method”**
     Link: University of South Florida:Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Newton-Raphson
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.2.1-TEXT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.2.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (15 pages).  
@@ -188,14 +188,14 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Newton-Raphson Method”**
     Links: University of South Florida:Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Newton-Raphson
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.2.1-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.2.1-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please attempt all questions on this multiple choice
     quiz.  If necessary, refer back to the “Textbook Chapter of
     Newton-Raphson Method” for any questions that pose difficulties. 
     You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.2.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.2.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -210,7 +210,7 @@ Upon successful completion of this unit, the student will be able to:
     Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example on Newton-Raphson
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.2.1-TEXT2.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.2.1-TEXT2.pdf)”
     (PDF)  
         
      Instructions: Please follow along with the example, and try to
@@ -244,7 +244,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Secant Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Secant
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.2.2-TEXT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.2.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (6 pages).  How does
@@ -278,7 +278,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Mechanical Engineering Example on Secant Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example on Secant
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-3.2.2-TEXT2EXAMPLE.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-3.2.2-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow along with the example, and try to reproduce
@@ -294,13 +294,13 @@ Upon successful completion of this unit, the student will be able to:
 **3.3 Nonlinear Equation Solving Exercise** <span id="3.3"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 3.3 Exercise”**
     Link: The Saylor Foundation’s “[ME205: Unit 3.3
-    Exercise](http://www.saylor.org/site/wp-content/uploads/2012/06/ME205-Subunit-3.3-Assignment-FINAL.pdf)”
+    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ME205-Subunit-3.3-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 3.3
     Exercise Solution
-    Guide](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-3.3-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-3.3-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 2 hours to complete.
 
 

@@ -54,15 +54,15 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapters on Matrix Algebra”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s Textbook Chapters on Matrix Algebra:
-    [Introduction](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-TEXT1.pdf)
+    [Introduction](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-TEXT1.pdf)
     (PDF),
-    [Vectors](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-TEXT2.pdf)
+    [Vectors](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-TEXT2.pdf)
     (PDF), [Binary Matrix
-    Operations](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-TEXT3.pdf)
+    Operations](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-TEXT3.pdf)
     (PDF), [Unary Matrix
-    Operations](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-TEXT4.pdf)
+    Operations](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-TEXT4.pdf)
     (PDF), and [Systems of
-    Equations](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-TEXT5.pdf)
+    Equations](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-TEXT5.pdf)
     (PDF)  
         
      Instructions: Please read all five textbook chapters (Introduction,
@@ -113,12 +113,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Introduction of Background of
     Simultaneous Linear
-    Equations](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-ASSESSMENT.pdf)”
+    Equations](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-ASSESSMENT.pdf)”
     (PDF)  
       
      Instructions: Please attempt all questions for this multiple choice
     quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -148,7 +148,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Gaussian Elimination”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Gaussian
-    Elimination](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.2-TEXT.pdf)”
+    Elimination](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Read the entire chapter (27 pages).  Based on your
@@ -166,12 +166,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s Test Your Knowledge of Gaussian Elimination”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Gaussian
-    Elimination](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.2-ASSESSMENT.pdf)”
+    Elimination](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.2-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please attempt all questions on this multiple choice
     quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.2-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.2-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -186,7 +186,7 @@ Upon successful completion of this unit, the student will be able to:
     Elimination”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example of Gaussian
-    Elimination](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.2-TEXT2EXAMPLE.pdf)”
+    Elimination](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.2-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the entire example, and try to reproduce the
@@ -219,7 +219,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Gauss-Seidel Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Gauss-Seidel
-    Method”](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.3-TEXT.pdf) (PDF)  
+    Method”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.3-TEXT.pdf) (PDF)  
         
      Instructions: Read the entire chapter (15 pages).  Based on your
     reading about numerical differentiation, can you think of ways to
@@ -236,12 +236,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Gauss-Seidel Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Gauss-Seidel
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.3-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.3-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please attempt all questions on the multiple choice
     quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.3-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.3-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -256,7 +256,7 @@ Upon successful completion of this unit, the student will be able to:
     Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example of Gauss-Seidel
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.3-TEXT2EXAMPLE.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.3-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Read through the example in its entirety, and try to
@@ -289,7 +289,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on LU Decomposition”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on LU
-    Decomposition](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.4-TEXT.pdf)”
+    Decomposition](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.4-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (16 pages).  Based on
@@ -307,12 +307,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of LU Decomposition”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of LU
-    Decomposition](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.4-ASSESSMENT.pdf)”
+    Decomposition](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.4-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Work through each question on the multiple choice
     quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.4-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.4-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -326,7 +326,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Chemical Engineering Example of LU Decomposition”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Chemical Engineering Example of LU
-    Decomposition](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-4.4-TEXT2EXAMPLE.pdf)”
+    Decomposition](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-4.4-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the entire example, and try to reproduce the
@@ -395,13 +395,13 @@ Upon successful completion of this unit, the student will be able to:
 id="4.6"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 4.6 Exercise”**
     Link: The Saylor Foundation’s “[ME205: Unit 4.6
-    Exercise](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-4.6-Assignment-FINAL.pdf)”
+    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-4.6-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 4.6
     Exercise Solution
-    Guide](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-4.6-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-4.6-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 3 hours to complete.
 
 
