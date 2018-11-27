@@ -41,9 +41,9 @@ Upon successful completion of this unit, the student will be able to:
     “Textbook Chapter History of Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s [“Textbook Chapter Definition of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.1-TEXT1.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.1-TEXT1.pdf)”
     (PDF) and “[Textbook Chapter History of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.1-TEXT2.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.1-TEXT2.pdf)”
     (PDF)  
         
      Instructions: Please read both chapters in their entirety (4 pages
@@ -76,12 +76,12 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge on Background of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.1-ASSESSMENT.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.1-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all of the questions on the multiple choice
     exam.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -97,7 +97,7 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of the Direct Method of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.2-TEXT.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (12 pages).  
@@ -129,12 +129,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of the Direct Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of the Direct
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.2-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.2-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please work through each question on the multiple
     choice quiz. You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.2-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.2-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -149,7 +149,7 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Industrial Engineering Example on Direct Method of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.2-TEXT2EXAMPLE.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.2-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the example, and try to reproduce the
@@ -169,7 +169,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of the Newton’s Divided Difference
     Method of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.3-TEXT.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.3-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (17 pages).  
@@ -201,12 +201,12 @@ Upon successful completion of this unit, the student will be able to:
     Difference Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of the Newton’s Divided Difference
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.3-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.3-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire multiple choice quiz.  You
     can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.3-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.3-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -222,7 +222,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Civil Engineering Example on Newton’s Divided
     Difference Method of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.3-TEXT2EXAMPLE.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.3-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the example, and try to reproduce the
@@ -240,7 +240,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Lagrange Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Lagrange
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.4-TEXT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.4-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (15 pages).  
@@ -271,12 +271,12 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of the Lagrange
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.4-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.4-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Complete the multiple choice quiz.  You can find the
     answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.4-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.4-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -291,7 +291,7 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example on Lagrange Method of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.4-TEXT2EXAMPLE.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.4-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the example, and try to reproduce the
@@ -309,7 +309,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Spline Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Spline
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.5-TEXT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.5-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (17 pages).  
@@ -340,12 +340,12 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s [Test Your Knowledge of the Spline
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.5-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.5-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire multiple choice quiz. You
     can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.5-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.5-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -360,7 +360,7 @@ Upon successful completion of this unit, the student will be able to:
     Interpolation”**
     Link: University of South Florida:  Holistic Numerical Methods
     Institute’s “[Mechanical Engineering Example on Spline Method of
-    Interpolation](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-5.5-TEXT2EXAMPLE.pdf)”
+    Interpolation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-5.5-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the example, and try to reproduce the
@@ -376,13 +376,13 @@ Upon successful completion of this unit, the student will be able to:
 **5.6 An Exercise in Interpolation** <span id="5.6"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 5.6 Exercise”**
     Link: The Saylor Foundation’s “[ME205: Unit 5.6
-    Exercise](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-5.6-Assignment-FINAL.pdf)”
+    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-5.6-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 5.6
     Exercise Solution
-    Guide](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-5.6-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-5.6-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 2 hours to complete.
 
 

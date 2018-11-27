@@ -40,9 +40,9 @@ Upon successful completion of this unit, the student will be able to:
     Analysis” and “Introduction to Regression”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[A Primer on Statistical Terminology for Regression
-    Analysis](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.1-TEXT1.pdf)”
+    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.1-TEXT1.pdf)”
     (PDF) and “[Introduction to
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.1-TEXT2.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.1-TEXT2.pdf)”
     (PDF)  
         
      Instructions: Please read both chapters in their entirety (15
@@ -60,12 +60,12 @@ Upon successful completion of this unit, the student will be able to:
     Regression”**
     Link:University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge on Background of
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.1-ASSESSMENT.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.1-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all questions in the multiple choice quiz. 
     You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Linear Regression”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Linear
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.2-TEXT.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (21 pages).  Based on
@@ -113,12 +113,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Linear Regression”**
     Link: University of South Florida:  Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Linear
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.2-ASSESSMENT.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.2-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all questions on the multiple choice quiz. 
     You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.2-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.2-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -132,7 +132,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Industrial Engineering Example of Linear Regression”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Industrial Engineering Example of Linear
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.2-TEXT2EXAMPLE.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.2-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the example, and try to reproduce the
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Nonlinear Regression”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Nonlinear
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.3-TEXT.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.3-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (32 pages).  Based on
@@ -182,12 +182,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Nonlinear Regression”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Nonlinear
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.3-ASSESSMENT.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.3-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all of the questions on the multiple choice
     quiz.  You can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.3-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.3-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -202,7 +202,7 @@ Upon successful completion of this unit, the student will be able to:
     Regression”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Electrical Engineering Example of Nonlinear
-    Regression](http://www.saylor.org/site/wp-content/uploads/2011/11/ME205-6.3-TEXT2EXAMPLE.pdf)”
+    Regression](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-6.3-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the example, and try to reproduce the
@@ -218,13 +218,13 @@ Upon successful completion of this unit, the student will be able to:
 **6.4 A Brief Exercise in Regression** <span id="6.4"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 6.4 Exercise”**
     Link: The Saylor Foundation’s “[ME205: Unit 6.4
-    Exercise](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-6.4-Assignment-FINAL.pdf)”
+    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-6.4-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 6.4
     Exercise Solution
-    Guide](http://www.saylor.org/site/wp-content/uploads/2011/10/ME205-Subunit-6.4-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-6.4-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 3 hours to complete.
 
 
