@@ -66,7 +66,7 @@ id="8.1"></span> 
     Institute’s “A Primer on Ordinary Differential Equations”**
     Link: University of South Florida:  Holistic Numerical Methods
     Institute’s “[A Primer on Ordinary Differential
-    Equations](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.1-TEXT.pdf)”
+    Equations](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (39 pages).  What is
@@ -104,7 +104,7 @@ id="8.1"></span> 
     Institute’s “Textbook Chapter on Euler’s Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Euler’s
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.2-TEXT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (12 pages).  Based on
@@ -137,7 +137,7 @@ id="8.1"></span> 
     Institute’s “Chemical Engineering Example of Euler’s Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Industrial Engineering Example of Euler’s
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.2-TEXT2EXAMPLE.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.2-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Read the example in its entirety.  Try to reproduce
@@ -177,13 +177,13 @@ id="8.1"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 8 Exercise
     Euler’s Method in Scilab”**
     Link: The Saylor Foundation’s “[ME205: Unit 8
-    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-8.1-Assignment-FINAL1.pdf)”
+    Exercise](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ME205-Subunit-8.1-Assignment-FINAL1.pdf)”
     (PDF)  
         
      Instructions:  Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 8
     Exercise Solution
-    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-8.1-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ME205-Subunit-8.1-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 3 hours to complete.
 
 **8.3 Runge-Kutta Methods** <span id="8.3"></span> 
@@ -205,7 +205,7 @@ id="8.1"></span> 
     Institute’s “Textbook Chapter on Runge-Kutta 2nd Order Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Runge-Kutta 2nd Order
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.3-TEXT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.3-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (17 pages).  Based on
@@ -224,12 +224,12 @@ id="8.1"></span> 
     Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Runge-Kutta 2nd Order
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.3-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.3-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all of the questions on the multiple choice
     quiz.  You can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.3-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.3-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -245,7 +245,7 @@ id="8.1"></span> 
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Industrial Engineering Example of Runge-Kutta 2nd
     Order
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.3-TEXT2EXAMPLE.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.3-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Read through the entire example, and try to reproduce
@@ -278,7 +278,7 @@ id="8.1"></span> 
     Institute’s “Textbook Chapter on Shooting Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Shooting
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.4-TEXT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.4-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (11 pages).  Based on
@@ -296,12 +296,12 @@ id="8.1"></span> 
     Methods Institute’s “Test Your Knowledge of Shooting Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Shooting
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.4-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.4-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can find
     the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-8.4-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-8.4-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative

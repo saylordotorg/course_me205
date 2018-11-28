@@ -57,7 +57,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Integral Calculus”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Integral
-    Calculus](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.1-TEXT.pdf)”
+    Calculus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Review the material in this chapter (24 pages).  
@@ -74,13 +74,13 @@ Upon successful completion of this unit, the student will be able to:
     Calculus”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Background of Integral
-    Calculus](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.1-ASSESSMENT.pdf)”
+    Calculus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.1-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Complete the entire multiple choice quiz.  Refer to
     resources in subunit 7.1 for any questions that pose difficulty. 
     You can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Trapezoidal Method”**
     Link: University of South Florida:  Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Trapezoidal
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.2-TEXT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (24 pages).  
@@ -111,7 +111,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Simpson’s 1/3 Rule”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Simpson’s 1/3
-    Rule](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.2-TEXT2.pdf)”
+    Rule](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.2-TEXT2.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (18 pages).  
@@ -127,13 +127,13 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Simpson’s 1/3 Rule”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Simpson’s 1/3
-    Rule](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.2-ASSESSMENT.pdf)”
+    Rule](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.2-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire multiple choice quiz. 
     Refer to the resources in subunit 7.2 for any questions that pose
     difficulties.  You can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.2-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.2-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -179,7 +179,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Romberg Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Romberg
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.3-TEXT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.3-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (12 pages).  
@@ -195,12 +195,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Romberg Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Romberg
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.3-ASSESSMENT.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.3-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Complete the entire multiple choice quiz.  You can
     find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.3-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.3-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -214,7 +214,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Chemical Engineering Example of Romberg Method”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Chemical Engineering Example of Romberg
-    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.3-TEXT2EXAMPLE.pdf)”
+    Method](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.3-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Read the entire example, and try to reproduce the
@@ -246,7 +246,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter of Gauss Quadrature”**
     Link: University of South Florida:  Holistic Numerical Methods
     Institute’s “[Textbook Chapter of Gauss
-    Quadrature](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.4-TEXT.pdf)”
+    Quadrature](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.4-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the entire chapter (21 pages).  
@@ -262,12 +262,12 @@ Upon successful completion of this unit, the student will be able to:
     Methods Institute’s “Test Your Knowledge of Gauss Quadrature”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Gauss
-    Quadrature](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.4-ASSESSMENT.pdf)”
+    Quadrature](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.4-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all questions on the multiple choice quiz. 
     You can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.4-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.4-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -281,7 +281,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Chemical Engineering Example of Gauss Quadrature”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Computer Engineering Example of Gauss
-    Quadrature](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-7.4-TEXT2EXAMPLE.pdf)”
+    Quadrature](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-7.4-TEXT2EXAMPLE.pdf)”
     (PDF)  
         
      Instructions: Follow the entire example, and try to reproduce the
@@ -297,13 +297,13 @@ Upon successful completion of this unit, the student will be able to:
 **7.5 An Exercise in Numerical Integration** <span id="7.5"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 7.5 Exercise”**
     Link: The Saylor Foundation’s “[ME205: Unit 7.5
-    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-7.5-Assignment-FINAL.pdf)”
+    Exercise](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ME205-Subunit-7.5-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 7.5
     Exercise Solution
-    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ME205-Subunit-7.5-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ME205-Subunit-7.5-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 3 hours to complete.
 
 
