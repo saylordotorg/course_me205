@@ -44,7 +44,7 @@ Upon successful completion of this unit, the student will be able to:
     Institute’s “Textbook Chapter on Differential Calculus”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Differential
-    Calculus](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.1-TEXT.pdf)”
+    Calculus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.1-TEXT.pdf)”
     (PDF)  
         
      Instructions: Please read the chapter in its entirety (32 pages). 
@@ -77,14 +77,14 @@ Upon successful completion of this unit, the student will be able to:
     Differential Calculus”**
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Background of Differential
-    Calculus](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.1-ASSESSMENT.pdf)”
+    Calculus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.1-ASSESSMENT.pdf)”
     (PDF)  
         
      Instructions: Attempt all questions in the multiple choice quiz.
      If you are having difficulty answering any of the questions, make
     sure to refer back to and review the resources in subunit 2.1.  You
     can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.1-ASSESSMENTANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.1-ASSESSMENTANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Numerical Differentiation of
     Continuous
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.2-TEXT.pdf)”
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.2-TEXT.pdf)”
     (PDF)  
         
      Instructions: Read the entire chapter (18 pages).  
@@ -134,13 +134,13 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Background of Numerical
     Differentiation of Continuous
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.2-ASSESSMENT2.pdf)”
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.2-ASSESSMENT2.pdf)”
     (PDF)  
       
      Instructions: Complete all questions in the multiple choice quiz.
      If you encounter any difficulties in answering a question, refer to
     the resources in subunit 2.2.  You can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.2-ASSESSMENT2ANSWERS.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.2-ASSESSMENT2ANSWERS.pdf)
     (PDF).  
         
      Terms of Use: The article above is released under a [Creative
@@ -157,7 +157,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Textbook Chapter on Numerical Differentiation of
     Discrete
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME205-2.3-TEXT.pdf)”
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ME205-2.3-TEXT.pdf)”
     (PDF)  
         
      Instructions: Read the entire chapter (9 pages).  How does the
@@ -193,7 +193,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of South Florida: Holistic Numerical Methods
     Institute’s “[Test Your Knowledge of Background of Numerical
     Differentiation of Discrete
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ME205-2.3-TestYourKnowledgeofNumericalDifferentiationofDiscreteFunctions.pdf)”
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ME205-2.3-TestYourKnowledgeofNumericalDifferentiationofDiscreteFunctions.pdf)”
     (PDF)  
         
      Instructions: Attempt all questions in the multiple choice quiz. 
@@ -212,13 +212,13 @@ Upon successful completion of this unit, the student will be able to:
 **2.4 An Exercise in Numerical Differentiation** <span id="2.4"></span> 
 -   **Assessment: The Saylor Foundation’s “ME205: Unit 2.4 Exercise”**
     Link: The Saylor Foundation’s “[ME205: Unit 2.4
-    Exercise](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ME205-Subunit-2.4-Assignment-FINAL.pdf)”
+    Exercise](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ME205-Subunit-2.4-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please perform this exercise.  When you are done,
     check your work against The Saylor Foundation’s “[ME304: Unit 2.4
     Exercise Solution
-    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ME205-Subunit-2.4-Answer-Key-FINAL.pdf)"
+    Guide](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ME205-Subunit-2.4-Answer-Key-FINAL.pdf)"
     (PDF).  This exercise should require less than 3 hours to complete.
 
 
